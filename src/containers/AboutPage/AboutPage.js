@@ -63,7 +63,7 @@ const AboutPage = () => {
               <p>
                 Saunatime offers you a good way to earn some extra cash! If you're not using your
                 sauna every evening, why not rent it to other people while it's free. And even if
-                you are using your sauna every evening (we understand, it's so good), why not invite
+                you are using your room every evening (we understand, it's so good), why not invite
                 other people to join you when the sauna is already warm! A shared sauna experience
                 is often a more fulfilling one.
               </p>
