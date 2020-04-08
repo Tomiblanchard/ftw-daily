@@ -18,7 +18,7 @@ const IconLogo = props => {
         fillRule="evenodd"
       />
     </svg>
-  );
+    );
 };
 
 const { string } = PropTypes;
