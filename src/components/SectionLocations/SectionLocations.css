@@ -4,7 +4,7 @@
   @apply --marketplaceH1FontStyles;
 
   margin-top: 0;
-  max-width: 735px;
+  max-width: 826px;
 
   @media (--viewportMedium) {
     margin-bottom: 23px;
